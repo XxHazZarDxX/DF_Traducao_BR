@@ -3,7 +3,7 @@ item_armor
 [OBJECT:ITEM]
 
 [ITEM_ARMOR:ITEM_ARMOR_BREASTPLATE]
-[NAME:breastplate:breastplates]
+[NAME:peitoral:peitorais]
 [ARMORLEVEL:3]
 [UBSTEP:0]
 [LBSTEP:0]
@@ -17,7 +17,7 @@ item_armor
 [METAL]
 
 [ITEM_ARMOR:ITEM_ARMOR_MAIL_SHIRT]
-[NAME:mail shirt:mail shirts]
+[NAME:camiseta de malha:camisetas de malha]
 [ARMORLEVEL:2]
 [UBSTEP:1]
 [LBSTEP:1]
@@ -31,8 +31,8 @@ item_armor
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
 [ITEM_ARMOR:ITEM_ARMOR_LEATHER]
-[NAME:armor:armor]
-[PREPLURAL:suits of]
+[NAME:armadura:armadura]
+[PREPLURAL:vestimentas de]
 [MATERIAL_PLACEHOLDER:leather]
 [ARMORLEVEL:1]
 [UBSTEP:1]
@@ -46,7 +46,7 @@ item_armor
 [LEATHER]
 
 [ITEM_ARMOR:ITEM_ARMOR_COAT]
-[NAME:coat:coats]
+[NAME:casaco:casos]
 [UBSTEP:MAX]
 [LBSTEP:1]
 [LAYER:OVER]
@@ -59,7 +59,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_SHIRT]
-[NAME:shirt:shirts]
+[NAME:camiseta:camisetas]
 [UBSTEP:MAX]
 [LBSTEP:0]
 [LAYER:UNDER]
@@ -72,7 +72,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_CLOAK]
-[NAME:cloak:cloaks]
+[NAME:manto:mantos]
 [UBSTEP:MAX]
 [LBSTEP:1]
 [LAYER:COVER]
@@ -85,7 +85,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_TUNIC]
-[NAME:tunic:tunics]
+[NAME:tunica:tunicas]
 [UBSTEP:0]
 [LBSTEP:1]
 [LAYER:UNDER]
@@ -111,7 +111,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_CAPE]
-[NAME:cape:capes]
+[NAME:capa:capas]
 [UBSTEP:0]
 [LBSTEP:0]
 [LAYER:COVER]
@@ -124,7 +124,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_VEST]
-[NAME:vest:vests]
+[NAME:vestimenta:vestimentas]
 [UBSTEP:0]
 [LBSTEP:0]
 [LAYER:OVER]
@@ -137,7 +137,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_DRESS]
-[NAME:dress:dresses]
+[NAME:vestido:vestidos]
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:UNDER]
@@ -150,7 +150,7 @@ item_armor
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_ARMOR:ITEM_ARMOR_ROBE]
-[NAME:robe:robes]
+[NAME:roupao:roupoes]
 [UBSTEP:MAX]
 [LBSTEP:MAX]
 [LAYER:OVER]
